@@ -198,3 +198,32 @@ myage=20
 print("my name is {myname} and my age is {myage}")
 print(f"my name is {myname} and my age is {myage}")
 
+
+# Numbers
+# int
+print(type(100))
+print(type(-100))
+
+# float
+print(type(0.100))
+print(type(-2.100))
+
+# complex number
+complexvar=5+6j
+print(type(complexvar)) # <class 'complex'>
+print("The real part is{} ".format(complexvar.real))
+print("The imaginary part is {}".format(complexvar.imag))
+
+
+# you can convert from int to float and the opposite but the you can not convert complex number to any other type
+
+print(float(100))
+print(int(100.5))
+
+
+
+# Arthemtic operators + - * / % (**)---> pow   (//)floor division
+
+print(2**5)
+print(6//3) #2
+print(25//6) #4
