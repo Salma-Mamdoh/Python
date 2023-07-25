@@ -1,9 +1,8 @@
-
-# My Journey in Learning Python 
+# My Journey in Learning Python ✨✨
 
 ## Welcome to my Python repo!
 
-This repo contains all of the code I wrote while learning Python. I started learning Python in 2023, and I'm still learning today. I've learned a lot from following tutorials online , Courses and reading Atricle.
+This repo contains all of the code I wrote while learning Python. I started learning Python in 2023, and I'm still learning today. I've learned a lot from following tutorials online , Courses and reading atricles.
 
 I hope you enjoy the codes! It's a mix of simple and complex tutorials.
 
@@ -52,7 +51,8 @@ I hope you enjoy the codes! It's a mix of simple and complex tutorials.
 </table>
 
 <h1>Python Basics</h1>
-<p>Topics Covered:</p>
+<p>This section covers the basics of using Python.</p>
+<h3>Topics Covered: </h3>
 <ul>
   <li>Containers (List, Tuple, Set, Dictionary)</li>
   <li>Loops</li>
@@ -68,13 +68,14 @@ I hope you enjoy the codes! It's a mix of simple and complex tutorials.
   <li>Regex</li>
   <li>Strings and Numbers</li>
 </ul>
-<p>Resources:</p>
+<h3>Resources:</h3>
 <ul>
-  <li><a href="https://www.elzero.com/mastering-python/">Elzero Web School: Mastering Python</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero Web School: Mastering Python</a></li>
   <li><a href="https://www.w3schools.com/python/python_getting_started.asp">W3Schools: Python Getting Started</a></li>
 </ul>
 <h1>OOP in Python</h1>
-<p>Topics Covered:</p>
+<p>This section covers the basics of using OOP inPython </p>
+<h3>Topics Covered:</h3>
 <ul>
   <li>OOP (Class, Instance Methods & Attributes, Class Methods, Static Method, Magic Method)</li>
   <li>Setter, Getter & Property Decorator</li>
@@ -82,15 +83,11 @@ I hope you enjoy the codes! It's a mix of simple and complex tutorials.
   <li>Inheritance & Multiple Inheritance & Overriding & MRO</li>
   <li>Abstract Base Class</li>
 </ul>
-<p>Resources:</p>
+<h3>Resources:</h3>
 <ul>
-  <li><a href="https://www.elzero.com/object-oriented-programming-in-python/">Elzero Web School: Object-Oriented Programming in Python</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero Web School: Object-Oriented Programming in Python</a></li>
   <li><a href="https://www.datacamp.com/courses/object-oriented-programming-in-python">DataCamp: Object-Oriented Programming in Python</a></li>
 </ul>
-
-Sure, I can help you with that. Here is the HTML code that you requested:
-
-HTML
 <h1>Hackerrank Challenges on Python</h1>
 <p>This section contains my solutions to some of the Hackerrank challenges in Python.</p>
 <ul>
@@ -119,3 +116,56 @@ HTML
 </ul>
 <p>This is just a small selection of the challenges I have solved. You can find the full list of my solutions on<a href="https://www.hackerrank.com/smmdwh985?hr_r=1" > Hackerrank</a>.</p>
 <p>I hope you find these solutions helpful.</p>
+<h1>Database with Python (SQLite)</h1>
+<p>This section covers the basics of using Python to interact with a SQLite database.</p>
+<h3>Topics Covered: </h3>
+<ul>
+  <li>Create Database</li>
+  <li>Create Table</li>
+  <li>Insert</li>
+  <li>Retrieve</li>
+  <li>Update</li>
+  <li>Delete</li>
+  <li>Practice1</li>
+  <li>Skills Application</li>
+</ul>
+<h3>Resources:</h3>
+<ul>
+  <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero Web School: Database with Python (SQLite)</a></li>
+</ul>
+
+<h1>Numpy</h1>
+<p>This section covers the basics of the NumPy library, which provides a high-performance array data type and a wide range of mathematical functions.</p>
+<h3>Topics Covered: </h3>
+<ul>
+  <li>Data types</li>
+  <li>Arithmetic and Useful Operations</li>
+  <li>Array Shape and Reshape</li>
+  <li>Comparison between list and array</li>
+  <li>Slicing and indexing</li>
+  <li>Notes from Kaggle Numpy Tutorial</li>
+</ul>
+<h3>Resources:</h3>
+<ul>
+  <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Elzero Web School: Numpy</a></li>
+  <li><a href="https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science/notebook">Kaggle Numpy Tutorial</a></li>
+</ul>
+<h1>Pandas</h1>
+<p>This section covers the basics of the Pandas library, which provides a high-level interface for data analysis and manipulation and by using Jupyter.</p>
+<h3>Topics Covered: </h3>
+<ul>
+  <li>Series</li>
+  <li>DataFrame</li>
+  <li>Indexing and Selection</li>
+  <li>Conditional Selection & Assigning Data</li>
+  <li>Combining data</li>
+  <li>Handling Missing Values</li>
+  <li>Aggregation functions & group-by</li>
+  <li>Pivot Table</li>
+  <li>Time series analysis</li>
+</ul>
+<h3>Resources:</h3>
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW">Pandas Playlist</a></li>
+  <li><a href="https://www.kaggle.com/learn/pandas">Pandas Course From Kaggle</a></li>
+</ul>
