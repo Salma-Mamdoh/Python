@@ -163,9 +163,48 @@ I hope you enjoy the codes! It's a mix of simple and complex tutorials.
   <li>Aggregation functions & group-by</li>
   <li>Pivot Table</li>
   <li>Time series analysis</li>
+  
 </ul>
 <h3>Resources:</h3>
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW">Pandas Playlist</a></li>
   <li><a href="https://www.kaggle.com/learn/pandas">Pandas Course From Kaggle</a></li>
 </ul>
+
+
+
+<h1>Matplotlib</h1>
+
+<p>In this section, I've gained valuable insights into the Matplotlib library, a widely-used data visualization tool in Python. Through this learning journey, I've acquired the skills to create a variety of informative and visually appealing plots.</p>
+
+<h3>Topics Covered: </h3>
+<ul>
+  <li>Drawing Plots</li>
+      <p>I've learned how to create different types of plots using Matplotlib, which is crucial for visually representing data patterns and trends.</p>
+
+<li>Bar Chart</li>
+      <p>Understanding how to construct bar charts has allowed me to effectively display and compare categorical data.</p>
+
+<li>Pie Chart</li>
+      <p>Pie charts are now a part of my visualization toolkit, enabling me to showcase the proportions of different categories in a dataset.</p>
+
+<li>Histogram Charts</li>
+      <p>Histograms are an essential tool for illustrating the distribution of continuous data, providing insights into the data's spread and central tendencies.</p>
+
+<li>Scatter Plots</li>
+      <p>Scatter plots have proven invaluable in showcasing relationships and correlations between two continuous variables.</p>
+
+<li>Subplots</li>
+      <p>Learning how to create subplots within a single figure has enabled me to display multiple plots in a structured and organized manner.</p></ul>
+
+
+<h3>Resources</h3>
+
+<ul>
+    <li><a href="https://youtube.com/playlist?list=PLuRv1IekA3YUdhJNrsn-nK71yvTc45OlW">Matplotlib Playlist</a></li>
+</ul>
+
+</body>
+
+</html>
+
