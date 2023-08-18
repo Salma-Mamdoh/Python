@@ -206,5 +206,31 @@ I hope you enjoy the codes! It's a mix of simple and complex tutorials.
 
 </body>
 
+
+<h1>Seaborn</h1>
+<ul>
+<p>In this section, I've explored the Seaborn library in Python, which is a powerful tool for data visualization and exploration. Seaborn simplifies the process of creating visually appealing and informative plots.</p>
+
+<h3>Topics Covered:</h3>
+<li>Line Plots</li>
+<p>I learned the art of creating line plots with Seaborn. Line plots are particularly useful for visualizing trends and patterns in data over time.</p>
+
+<li>Scatter Plots</li>
+<p>Seaborn's scatter plots enabled me to explore relationships between two variables, highlighting patterns and correlations within the data.</p>
+
+<li>Regression Plots</li>
+<p>Regression plots allowed me to visualize the linear relationship between variables, making it easier to understand correlations and fit regression models.</p>
+
+<li>Distribution Plots</li>
+<p>I learned to create distribution plots that provide insights into the distribution of data, whether it's a histogram, kernel density estimate, or combination of both.</p>
+</ul>
+<h3>Resources</h3>
+
+<ul>
+    <li><a href="https://youtube.com/playlist?list=PLuRv1IekA3YVKE4ZEAJn7r0a_vYTRlqlC">Seaborn Playlist</a></li>
+</ul>
+
+</body>
+
 </html>
 
